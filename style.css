@@ -4,5 +4,6 @@ body {
 }
 
 h2 {
-  color: #f30;
+  background-color: rgb(102, 255, 107);
+  color: black;
 }
